@@ -1,0 +1,41 @@
+.form{
+    text-align: left;
+    padding: 40px;
+    padding-top: 20px;
+    margin-left: 610px;
+    margin-top: 50px;
+    float: left;
+    border: 2px solid black;
+    border-radius: 30px;
+}
+.form div{
+    text-align: center;
+    margin-left: 0px
+}
+.form button{
+    margin-left: 110px;
+}
+.form input{
+    height: 20px;
+    width: 270px;
+    border-radius: 5px;
+}
+.form h6{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 45px;
+    margin-bottom: 5px;
+}
+.form label{
+    font-size: 17px;
+    font-weight: bold;
+}
+.form button{
+    margin-top: 0px;
+    height: 27px;
+    width: 80px;
+    font-size: 16px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}

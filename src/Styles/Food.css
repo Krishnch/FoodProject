@@ -1,0 +1,48 @@
+.image{
+    height : 180px;
+    width: 250px;
+}
+.card{
+    margin-top: 50px;
+    float: left;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-bottom: 20px;
+    border: 2px solid rgb(237, 229, 229);
+    border-radius: 0px;
+    background: white;
+}
+.itemrange{
+    width : 25px;
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+}
+.cardb{
+    margin-top: 240px;
+    padding-top: 200px;
+}
+.cardb button{
+    margin-top: 0px;
+    height: 30px;
+    width: 120px;
+    font-size: 16px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
+.card label{
+    padding-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.plus{
+    background-color: rgb(85, 0, 255);
+    color: white;
+    font-weight: bolder;
+}
+.subtract{
+    background-color: rgb(241, 7, 7);
+    color: white;
+    font-weight: bolder;
+}

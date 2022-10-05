@@ -1,0 +1,28 @@
+.home{
+    margin-top: 100px;
+    margin-left: 150px;
+    text-align: center;
+    font-size: 30px;
+    height: 300px;
+    width: 1200px;
+    border: 2px solid white;
+    background-color:  rgb(240, 240, 240);
+    border-radius: 10px;
+}
+.home h4{
+    margin-top: 40px;
+}
+.home p{
+    margin-top: 0px;
+   margin-bottom: 0px;
+    font-weight: bold;
+}
+.home button{
+    margin-top: 0px;
+    height: 27px;
+    width: 80px;
+    font-size: 16px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
