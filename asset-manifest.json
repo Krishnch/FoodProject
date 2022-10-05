@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.b520d9f4.css",
-    "main.js": "/my-app/static/js/main.f145e001.js",
-    "static/js/787.28cb0dcd.chunk.js": "/my-app/static/js/787.28cb0dcd.chunk.js",
-    "static/media/pepsi.jpeg": "/my-app/static/media/pepsi.6efe5ca933f40734c898.jpeg",
-    "static/media/burger.jpeg": "/my-app/static/media/burger.a264aebc643407f64b08.jpeg",
-    "static/media/fries.jpeg": "/my-app/static/media/fries.f7959aff9a151e6e64aa.jpeg",
-    "static/media/coke.jpeg": "/my-app/static/media/coke.100662047528b053f85e.jpeg",
-    "index.html": "/my-app/index.html",
-    "main.b520d9f4.css.map": "/my-app/static/css/main.b520d9f4.css.map",
-    "main.f145e001.js.map": "/my-app/static/js/main.f145e001.js.map",
-    "787.28cb0dcd.chunk.js.map": "/my-app/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/FoodProject/static/css/main.b520d9f4.css",
+    "main.js": "/FoodProject/static/js/main.c4c3d53f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/FoodProject/static/js/787.28cb0dcd.chunk.js",
+    "static/media/pepsi.jpeg": "/FoodProject/static/media/pepsi.6efe5ca933f40734c898.jpeg",
+    "static/media/burger.jpeg": "/FoodProject/static/media/burger.a264aebc643407f64b08.jpeg",
+    "static/media/fries.jpeg": "/FoodProject/static/media/fries.f7959aff9a151e6e64aa.jpeg",
+    "static/media/coke.jpeg": "/FoodProject/static/media/coke.100662047528b053f85e.jpeg",
+    "index.html": "/FoodProject/index.html",
+    "main.b520d9f4.css.map": "/FoodProject/static/css/main.b520d9f4.css.map",
+    "main.c4c3d53f.js.map": "/FoodProject/static/js/main.c4c3d53f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/FoodProject/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b520d9f4.css",
-    "static/js/main.f145e001.js"
+    "static/js/main.c4c3d53f.js"
   ]
 }
